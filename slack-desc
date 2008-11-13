@@ -1,0 +1,12 @@
+texi2html: Texi2HTML (An Open Source Texinfo to HTML Conversion Script)
+texi2html:
+texi2html: Texi2HTML is a Perl script which converts Texinfo source files to
+texi2html: HTML output, licensed under the GNU General Public License,
+texi2html: version 2, or any later version.
+texi2html: The program takes Texinfo files (not info ones) and produces a set
+texi2html: of HTML files.  The quality of the output is close to the printed
+texi2html: output and is much better than an info->HTML gateway.
+texi2html: Compared to the output of `makeinfo --html', texi2html's output is
+texi2html: more customizable and (subjectively) produces better output by
+texi2html: default.
+texi2html: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
