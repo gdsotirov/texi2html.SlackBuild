@@ -9,4 +9,4 @@ texi2html: output and is much better than an info->HTML gateway.
 texi2html: Compared to the output of `makeinfo --html', texi2html's output is
 texi2html: more customizable and (subjectively) produces better output by
 texi2html: default.
-texi2html: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+texi2html: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
